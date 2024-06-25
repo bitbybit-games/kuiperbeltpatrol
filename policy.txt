@@ -1,0 +1,8 @@
+This application collects the following data to update the game leaderboard :
+
+- your device id
+- your nickname
+- your score
+- the date and time you set your score
+
+If you installed this application from Google Play, then Google Play does collect some personal data. Please see the privacy policy for Google Play Services here: https://policies.google.com/privacy
